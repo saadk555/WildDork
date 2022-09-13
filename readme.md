@@ -5,7 +5,7 @@ With this, You can find mutiple words starting with entered letters from titles 
 
 External Libraries Used and their licenses:
 
-requests 2.28.1 | https://pypi.org/project/requests/ |  License
+requests 2.28.1 | https://pypi.org/project/requests/ |  [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_requests.txt)
 
 
 beautifulsoup4 4.11.1 | https://pypi.org/project/beautifulsoup4/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_beautifulsoup.txt)
@@ -14,7 +14,7 @@ beautifulsoup4 4.11.1 | https://pypi.org/project/beautifulsoup4/ | [License](htt
 regex 2022.8.17 | https://pypi.org/project/regex/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_regex.txt)
 
 
-Pandas | https://pypi.org/project/pandas/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_requests.txt)
+Pandas | https://pypi.org/project/pandas/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_pandas.txt)
 
 
 For more licenses of all libraries, visit [here](https://github.com/saadk555/WildDork/blob/main/Libraries)
