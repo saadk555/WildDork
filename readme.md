@@ -8,13 +8,13 @@ External Libraries Used and their licenses:
 requests 2.28.1 | https://pypi.org/project/requests/ |  License
 
 
-beautifulsoup4 4.11.1 | https://pypi.org/project/beautifulsoup4/ | License
+beautifulsoup4 4.11.1 | https://pypi.org/project/beautifulsoup4/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_beautifulsoup.txt)
 
 
-regex 2022.8.17 | https://pypi.org/project/regex/ | License
+regex 2022.8.17 | https://pypi.org/project/regex/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_regex.txt)
 
 
-Pandas | https://pypi.org/project/pandas/ | License
+Pandas | https://pypi.org/project/pandas/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_requests.txt)
 
 
-For more licenses of all libraries, visit here
+For more licenses of all libraries, visit [here](https://github.com/saadk555/WildDork/blob/main/Libraries)
