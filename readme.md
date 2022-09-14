@@ -3,7 +3,10 @@ WildDork
 
 With this, You can find mutiple words starting with entered letters from titles of posts, snippets and It will show all the matching words from the title + description (snippet) with their corresponding URL
 
-External Libraries Used and their licenses:
+Will be getting more updates in future
+
+
+External Libraries and their licenses:
 
 requests 2.28.1 | https://pypi.org/project/requests/ |  [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_requests.txt)
 
