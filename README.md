@@ -20,4 +20,13 @@ regex 2022.8.17 | https://pypi.org/project/regex/ | [License](https://github.com
 Pandas | https://pypi.org/project/pandas/ | [License](https://github.com/saadk555/WildDork/blob/main/Libraries/LICENSE_pandas.txt)
 
 
-For all license files, Please visit [Libraries](https://github.com/saadk555/WildDork/blob/main/Libraries)
+Libraries and their uses are covered by their respective licenses in  [Libraries](https://github.com/saadk555/WildDork/blob/main/Libraries) directory 
+
+----------------------------------------------------
+
+Feel free to contribute and improve it.
+
+Any contribution would be highly appreciated.
+
+
+----------------------------------------------------
